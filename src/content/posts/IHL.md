@@ -7,5 +7,5 @@ draft: false
 tags:
   - law
   - notes
-description: "My overview and notes regarding International Humanitarian Law."
+description: "Notes and overview on International Humanitarian Law."
 ---
